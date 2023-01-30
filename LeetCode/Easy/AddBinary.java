@@ -1,5 +1,3 @@
-import java.util.function.BinaryOperator;
-
 class Solution {
     int binaryToDecimal(String binary){
         int sum = 0;
